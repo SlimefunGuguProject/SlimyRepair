@@ -81,7 +81,7 @@ public class SlimyRepair extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public String getBugTrackerURL() {
-        return "https://github.com/NCBPFluffyBear/SlimyRepair/issues";
+        return "https://github.com/SlimefunGuguProject/SlimyRepair/issues";
     }
 
     @Override
